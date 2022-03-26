@@ -24,7 +24,7 @@ const Anjan = {
     askMeAbout: ["UI", "UX", "Editing", "Desing"],
     technologies: {
         backEnd: {
-            js: ["PHP"],
+            code: ["PHP","JS"],
         },
         mobileApp: {
             native: ["Still learning"]
@@ -34,12 +34,9 @@ const Anjan = {
 };
 ```
 ### 📊 Github Stats
-  
 ![Anjan GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-unknown&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pro-unknown&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pro-unknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+![Anjan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-unknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical)
 
 # Contact Me :
 
@@ -47,16 +44,16 @@ const Anjan = {
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/pro-unknown/Pro-Unknown/blob/main/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:anjanpatel.2233@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/pro-unknown/Pro-Unknown/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/pro-unknown/Pro-Unknown/blob/main/assets/icons/steam.png" />
 </a>
  </p>
 </br>
@@ -72,3 +69,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+# CYA :
+<p align = "center">
+<img hight="320" width="450" align="middle" alt="GIF" src="https://github.com/pro-unknown/Pro-Unknown/blob/main/assets/207351364002202.gif">
+</p>
+ </br>
