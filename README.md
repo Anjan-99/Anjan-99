@@ -93,6 +93,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ---
 # CYA :
 <p align = "center">
-<img hight="320" width="450" align="middle" alt="GIF" src="https://github.com/Anjan-99/Anjan-99/blob/main/assets/207351364002202.gif">
+<img hight="320" width="450" align="middle" alt="GIF" src="https://c.tenor.com/cu7EJBpK6rQAAAAC/luffy-smiling.gif">
 </p>
  </br>
