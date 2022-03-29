@@ -8,6 +8,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://titanslab.in/)](http://titanslab.in/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Anjan-99.Anjan-99)
 
+
 <!-- 👇 Hit in your console or terminal to connect with me.
 
 ```bash
@@ -35,10 +36,33 @@ const Anjan = {
     },
 };
 ```
-### 📊 Github Stats
-![Anjan GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjan-99&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anjan-99&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjan-99&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+
+<br/>
+<br/>
+
+# 📊 Github Stats :
+
+<p align="right">
+<img alt="Anjan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anjan-99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ </p>
+<p align="left">
+  <img alt="Anjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan-99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+  <br><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<img alt="Anjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anjan-99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
 
 # Contact Me :
 
