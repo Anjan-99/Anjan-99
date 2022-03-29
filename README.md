@@ -21,7 +21,8 @@ npx anmol
 const Anjan = {
     pronouns: "He",
     code: ["HTML", "CSS", "JS", "PHP"],
-    Framework: ["Bootstrap","Tailwind"],
+    Framework: ["Bootstrap","Tailwind","Wordpress"],
+    tools: [VS Code, GitHub],
     askMeAbout: ["UI", "UX", "Editing", "Desing"],
     technologies: {
         backEnd: {
