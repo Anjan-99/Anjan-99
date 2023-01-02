@@ -21,7 +21,7 @@ npx anmol
 ```javascript
 const Anjan = {
     pronouns: "He",
-    code: ["HTML", "CSS", "JS", "PHP"],
+    code: ["HTML", "CSS", "JS", "PHP","Java","Python"],
     Framework: ["Bootstrap","Tailwind","Wordpress"],
     tools: [VS Code, GitHub],
     askMeAbout: ["UI", "UX", "Editing", "Desing"],
